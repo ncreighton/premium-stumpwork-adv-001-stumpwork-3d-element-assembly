@@ -1,0 +1,2 @@
+# premium-stumpwork-adv-001-stumpwork-3d-element-assembly
+Tired of losing track of which stumpwork element goes where, with half-finished petals and wires scattered across your workspace?  This Notion template transforms the chaos of 3D element assembly into a clear, step-by-step workflow. It helps you plan, track, and assemble each raised component in the right order, so your final piece looks exactly as
